@@ -1,0 +1,20 @@
+[submodule "ipg_photonics"]
+	path = ipg_photonics
+	url = E:/Netlist/Test_tasks/ipg_photonics
+	branch = master
+[submodule "npp_mera"]
+	path = npp_mera
+	url = E:/Netlist/Test_tasks/npp_mera
+	branch = master
+[submodule "SISO_decoder"]
+	path = SISO_decoder
+	url = https://github.com/Warl3ck/SISO_decoder.git
+	branch = master
+[submodule "interleaver"]
+	path = interleaver
+	url = https://github.com/Warl3ck/interleaver.git
+	branch = master
+[submodule "attenuator"]
+	path = attenuator
+	url = https://github.com/Warl3ck/attenuator.git
+	branch = master
